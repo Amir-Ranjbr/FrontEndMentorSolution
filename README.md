@@ -1,2 +1,2 @@
 # FrontEnd Mentor Solution
-## You Can Change in branch and see another projects 
+## You can change in branch and see another projects 
