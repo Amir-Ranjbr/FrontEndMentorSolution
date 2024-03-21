@@ -11,6 +11,7 @@ function invalidEmailUI(labelError, emailInput) {
 }
 function emailCorrectFormat(email) {
   const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+  return emailRegex.test(email);
 }
 // States
 let state = "subscription";
