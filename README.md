@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Link]()
-- Live Site URL: [Link]()
+- Solution URL: [Link](here: https://www.frontendmentor.io/solutions/newsletter-signup-form-with-success-message-NxsCdPCS7K)
+- Live Site URL: [Link](https://amir-ranjbr.github.io/FrontEndMentorSolution/)
 
 ### Built with
 
